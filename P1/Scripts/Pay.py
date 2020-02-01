@@ -1,0 +1,5 @@
+X=input('Enter The Number of hours:')
+Y=input('Enter pay per hours:')
+pay= float(X)*float(Y)
+print('Total Pay:',pay)
+quit()
